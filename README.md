@@ -51,7 +51,3 @@ A responsive and modern **Admin Dashboard** built using **React.js** and **Tailw
 - Fully responsive across desktop, tablet, and mobile devices
 - Built with Tailwind utility-first approach
 
----
-
-# Run the development server
-npm start
